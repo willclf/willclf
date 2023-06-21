@@ -1,8 +1,6 @@
 ### Olá, Eu sou o Wilson Souza :raised_hand:
 <hr>
 
-![Wilson GitHub stats](https://github-readme-stats.vercel.app/api?username=willclf&show_icons=true&theme=transparent)
-
 ### Tecnologias que Utilizo
 <hr>
 <div style="display: inline_block"><br>
